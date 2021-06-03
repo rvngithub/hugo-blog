@@ -4,7 +4,7 @@ date: 2021-03-21
 categories: "Guide"
 ---
 ##### 참고하면 좋은 링크들
-**Markdown 공식 가이드**를 참조.  
+**Markdown 공식 가이드**  
 [Basic](https://www.markdownguide.org/basic-syntax/)  
 [Extended](https://www.markdownguide.org/extended-syntax/)  
 **Hugo에서 지원**하는 마크다운 리스트는 [여기](https://www.markdownguide.org/tools/hugo/)를 참조.
